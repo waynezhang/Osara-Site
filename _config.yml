@@ -1,0 +1,12 @@
+name: "Osara"
+author: "wayne"
+
+navigations:
+  - title: Introduction
+    href: "#introduction"
+  - title: Features
+    href: "#features"
+  - title: Download
+    href: "#download"
+  - title: FAQ
+    href: "#faq"
