@@ -8,5 +8,7 @@ navigations:
     href: "#features"
   - title: Download
     href: "#download"
+  - title: Installation
+    href: "#installation"
   - title: FAQ
     href: "#faq"

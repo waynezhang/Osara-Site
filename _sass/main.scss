@@ -21,9 +21,9 @@ hr { width: 4em; border: none; border-top: 1px dashed #d0d0d0; border-bottom: 1p
 .center { text-align: center; }
 ::selection { color: #fff; background-color: #333; }
 a { text-decoration: none; color: #bb2222; &:hover { color: #dd1144; }; }
-blockquote { background-color: #eee; padding: 0 1em; font-size: 13px; line-height: 1.6; display: block; overflow: auto; }
+blockquote { background-color: #f2f2f2; padding: 0 1em; font-size: 13px; line-height: 1.6; display: block; overflow: auto; }
 pre code { @extend blockquote; }
-code { background-color: #f8f8f8; padding: 1px; border: 1px dashed #e0e0e0; font-family: #{$monospace}; }
+code { background-color: #f2f2f2; padding: .25em .5em; font-family: #{$monospace}; }
 time { font-family: #{$time-font} }
 
 header {
@@ -87,5 +87,4 @@ footer {
   text-align: center;
   margin: 2em auto;
   a { color: #cccccc; &:hover { color: #999999; }; }
-
 }

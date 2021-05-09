@@ -19,6 +19,15 @@ No more need to memorize shortcut keys! Osara(お皿) brings Command Platte to a
 
 The newest version can be downloaded at [AppCenter](https://install.appcenter.ms/users/waynezhang/apps/osara/distribution_groups/public).
 
+# Installation
+
+1. Unzip downloaded file and place `Osara.app` into `/Applications`.
+2. At the first launch, app will ask you to grant Accessibility permission. Open `System Preferences` -> `Security & Privacy` -> `Accessibility` and check `Osara.app`.
+3. Open `Preference` of Osara from menu bar and set a shortcut.
+4. Try that shortcut in some app!
+
+![](media/images/installation.jpg)
+
 # FAQ
 
 - Is Osara free?
