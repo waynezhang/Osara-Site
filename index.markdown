@@ -7,6 +7,10 @@ layout: default
 ![](media/images/screenshot.jpg)
 No more need to memorize shortcut keys! Osara(お皿) brings Command Platte to all your apps. With Osara, you can access all the menu items via a simple shortkey.
 
+<p class="producthunt-link">
+<a href="https://www.producthunt.com/posts/osara?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-osara" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=295829&theme=light" alt="Osara - Osara brings Command Palette for app menus to all your apps | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+</p>
+
 # Features
 
 - Fuzzy match
@@ -31,6 +35,6 @@ The newest version can be downloaded at [AppCenter](https://install.appcenter.ms
 # FAQ
 
 - Is Osara free?
-    > Yes. Osara is free of use. Please consider to [Buy me a coffee](https://ko-fi.com/waynezhang) to support the development if you find it useful.
+    > Yes. Osara is free of use. Please consider <a href='https://ko-fi.com/S6S44JFTQ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> to support the development if you find it useful.
 - Why Osara is not distributed via App Store?
     > Osara uses Accessibility API to gather menu information from other applications. This is disabled in Sandbox apps. But don't worry. Osara is [nortarized](https://developer.apple.com/documentation/security/notarizing_macos_software_before_distribution) by Apple and signed by a valid developer certificate.
