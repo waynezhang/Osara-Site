@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 # Introduction
 
 ![](media/images/screenshot.jpg)
@@ -30,6 +29,19 @@ The newest version can be downloaded at [AppCenter](https://install.appcenter.ms
 3. Open `Preference` of Osara from menu bar and set a shortcut.
 4. Try that shortcut in some app!
 
+# Changelogs
+
+- 2021/10/17 v1.9.0
+    - Support PageUp(Fn + Up Arrow) and PageDown(Fn + Down Arrow) in search results
+- 2021/10/17 v1.8.0
+    - Experimental Added Remember last used menu. It can be turned on from Preference
+    - Fixed Issue Text field can not be focused on sometimes.
+- 2021/05/21 v1.7.1
+    - Truncate long title correctly
+    - Fix text color issue in dark mode
+    - Performance improvement
+- 2021/05/07 v1.7.0
+    - First public release
 ![](media/images/installation.jpg)
 
 # FAQ
