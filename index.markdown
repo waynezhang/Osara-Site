@@ -31,7 +31,7 @@ The newest version can be downloaded at [AppCenter](https://install.appcenter.ms
 
 # Changelogs
 
-- 2021/10/17 v1.9.0
+- 2021/11/11 v1.9.0
     - Support PageUp(Fn + Up Arrow) and PageDown(Fn + Down Arrow) in search results
 - 2021/10/17 v1.8.0
     - Experimental Added Remember last used menu. It can be turned on from Preference
