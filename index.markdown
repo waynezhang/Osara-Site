@@ -29,6 +29,8 @@ The newest version can be downloaded at [AppCenter](https://install.appcenter.ms
 3. Open `Preference` of Osara from menu bar and set a shortcut.
 4. Try that shortcut in some app!
 
+![](media/images/installation.jpg)
+
 # Changelogs
 
 - 2021/11/11 v1.9.0
@@ -42,7 +44,6 @@ The newest version can be downloaded at [AppCenter](https://install.appcenter.ms
     - Performance improvement
 - 2021/05/07 v1.7.0
     - First public release
-![](media/images/installation.jpg)
 
 # FAQ
 
