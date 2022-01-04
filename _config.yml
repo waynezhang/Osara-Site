@@ -10,5 +10,7 @@ navigations:
     href: "#download"
   - title: Installation
     href: "#installation"
+  - title: Changelogs
+    href: "#changelogs"
   - title: FAQ
     href: "#faq"
