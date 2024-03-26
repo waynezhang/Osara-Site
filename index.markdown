@@ -33,6 +33,13 @@ The newest version can be downloaded at [AppCenter](https://install.appcenter.ms
 
 # Changelogs
 
+- 2024/03/26 v1.12.0
+    - Migrated AppCenter to Firebase because AppCenter will retire.
+    - Changed AutoUpdate from AppCenter to Github.
+    - **Please update to this version or you will not receive auto-update in the future.**
+- 2023/11/22 v1.11.0
+    - Add a new option to match parent menu paths.
+    - Other minor fixes.
 - 2023/10/14 v1.10.0
     - Fixed some minor bugs
     - Updated libraries

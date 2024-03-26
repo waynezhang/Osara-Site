@@ -1,4 +1,21 @@
----
-release_only: true
----
-{%include appcast.inc %}
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Osara</title><link>/v0.1/public/sparkle/apps/e5e8f7b1-0bf3-45fd-876b-0ff1694aefd7</link><item><title>Version 1.12.0 (37)</title><description>&lt;div&gt;&lt;ul&gt;
+&lt;li&gt;Migrated AppCenter to Firebase because AppCenter will retire.&lt;/li&gt;
+&lt;li&gt;Changed AutoUpdate from AppCenter to Github.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Please update to this version or you will not receive auto-update in the future.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Tue, 26 Mar 2024 08:50:35 GMT</pubDate><enclosure sparkle:version="37" sparkle:shortVersionString="1.12.0" sparkle:edSignature="1y2vNVQY1EI1h44snvyGXfmwPfpcuPe2Fz82SFhWd+dpBITSZ7USNJTSpyPUwqVuTmILXBBg8DJjQizvhHPiBA==" url="https://appcenter-filemanagement-distrib3ede6f06e.azureedge.net/cfc8e37f-5bea-4196-bdc3-43a041628929/Osara-1.12.0.zip?sv=2019-02-02&amp;sr=c&amp;sig=ZgE3FP2Qra1PDzW6EUPxtaAPRN4AEbfnSbRjSklF3Po%3D&amp;se=2024-03-27T10%3A38%3A21Z&amp;sp=r" length="4266160" type="application/octet-stream"></enclosure><sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion></item><item><title>Version 1.11.0 (36)</title><description>&lt;div&gt;&lt;ul&gt;
+&lt;li&gt;Add a new option to match parent menu paths.&lt;/li&gt;
+&lt;li&gt;Other minor fixes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description><pubDate>Wed, 22 Nov 2023 11:43:08 GMT</pubDate><enclosure sparkle:version="36" sparkle:shortVersionString="1.11.0" sparkle:edSignature="270MhqPF0HSP4vCraAKQ+zrEVoSeq6cjI9eiA643MKZVpaR3ieKkLrvsB4lHwb9YUQ8A7CFLB09S2OqOAOvKDQ==" url="https://appcenter-filemanagement-distrib2ede6f06e.azureedge.net/f40020d2-6d8a-4c13-aba8-9768b3373db1/Osara.zip?sv=2019-02-02&amp;sr=c&amp;sig=3ZG9fyb5n45OsDs80ZX3HXmYYwo6z%2BAtl5ky0BsyO5U%3D&amp;se=2024-03-27T10%3A38%3A21Z&amp;sp=r" length="3196520" type="application/octet-stream"></enclosure><sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion></item><item><title>Version 1.10.0 (35)</title><description>&lt;div&gt;&lt;ul&gt;
+&lt;li&gt;Fixed some minor bugs.&lt;/li&gt;
+&lt;li&gt;Updated libraries.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description><pubDate>Mon, 23 Oct 2023 11:13:17 GMT</pubDate><enclosure sparkle:version="35" sparkle:shortVersionString="1.10.0" sparkle:edSignature="8wZSJzokIgfSorKy0L6ZcAsL1UyqUpIbfFwwsCPCu5zLV4xhMc0Eq5LRHN15Fq7rc5W6wK58EkV+LEMWr95bCw==" url="https://appcenter-filemanagement-distrib2ede6f06e.azureedge.net/92799ec1-d71d-457c-a3f9-6b6c1c28c9b1/Osara.zip?sv=2019-02-02&amp;sr=c&amp;sig=I0iDCsgtalYKJ4iA09BgV1r5YVxsf3ZZlmjOAVAvVIE%3D&amp;se=2024-03-27T10%3A38%3A21Z&amp;sp=r" length="3185585" type="application/octet-stream"></enclosure><sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion></item><item><title>Version 1.9.0 (34)</title><description>&lt;div&gt;&lt;ul&gt;
+&lt;li&gt;Support PageUp(Fn + Up Arrow) and PageDown(Fn + Down Arrow) in search results&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description><pubDate>Thu, 11 Nov 2021 02:55:51 GMT</pubDate><enclosure sparkle:version="34" sparkle:shortVersionString="1.9.0" sparkle:edSignature="J8FpBLMi0re3fbIuCzbJ2ljp8eOjKot9hjJvsyHOhcSQP8qoLxY4r9F0rkxeE0unATdwuYhs32axax3hBW5eDA==" url="https://appcenter-filemanagement-distrib1ede6f06e.azureedge.net/82e6ca02-36a2-4d35-9fe9-ae4ddcc82507/Osara.zip?sv=2019-02-02&amp;sr=c&amp;sig=JQfU4G3zSjyqLmrFIpKn6pOrHNfn2HoQeEOs6N2jgYU%3D&amp;se=2024-03-27T10%3A38%3A21Z&amp;sp=r" length="2732377" type="application/octet-stream"></enclosure><sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion></item><item><title>Version 1.8.0 (33)</title><description>&lt;div&gt;&lt;ul&gt;
+&lt;li&gt;[Experimental] Added &lt;code&gt;Remember last used menu&lt;/code&gt;. It can be turned on from &lt;code&gt;Preference&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;[Fixed Issue] Text field can not be focused on sometimes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description><pubDate>Sun, 17 Oct 2021 11:38:25 GMT</pubDate><enclosure sparkle:version="33" sparkle:shortVersionString="1.8.0" sparkle:edSignature="CMxaR7gmE4PIlb9Yh/S3ZNUuYG827WMpPPqUHB6pps5Tqz0zfn0ImEqquAFroxT9CcLRwh3en1+tm+4OZ9z7AA==" url="https://appcenter-filemanagement-distrib2ede6f06e.azureedge.net/dbd689b3-c5e0-42da-a79e-f10a73c3a336/Osara.zip?sv=2019-02-02&amp;sr=c&amp;sig=ZJ8vPqejT3qjQPEcTRFX7Bm0Qcyjsh30dtpQHh5o7vw%3D&amp;se=2024-03-27T10%3A38%3A21Z&amp;sp=r" length="2719955" type="application/octet-stream"></enclosure><sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion></item></channel></rss>
